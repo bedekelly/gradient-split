@@ -1,7 +1,7 @@
 # Dynamic Gradient Split
 #### A React component for animated split background gradients
 
-![](./Screenshot.png)
+[![](./Screenshot.png)](https://gradient.bede.io)
 Live demo: [gradient.bede.io](https://gradient.bede.io)
 
 Because linear-gradient backgrounds can't be animated natively with CSS, this React component swaps between two components, using opacity to emulate animating linear-gradient natively at 60fps.
